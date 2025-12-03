@@ -94,10 +94,10 @@ namespace CheckLocalizations.Models
                     case "canadian french":
                     case "filipino":
                     case "galician":
-                    case "hindu":
+                    case "hindi":
                     case "kannada":
                     case "tamil":
-                    case "islandic":
+                    case "icelandic":
                     case "kazakh":
                     case "latvian":
                     case "macedonian":
